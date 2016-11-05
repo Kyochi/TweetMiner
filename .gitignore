@@ -14,3 +14,5 @@ config/config.cfg
 .idea/*.png
 *.iml
 
+# class
+out/*
